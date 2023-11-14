@@ -1,1 +1,1 @@
-This the the Github repository for our CS577 Final Project
+This is the GitHub repository for our CS577 Final Project, focusing on Wildfire Detection from RGB Images using CNN, Transformer, and Hybrid Models. The repository contains code implementations, model architectures, dataset details, and project documentation. Explore our progress, from initial CNN models to ongoing work on tuning, preprocessing, and incorporating Transformer architectures. Your insights and contributions are welcome as we strive to develop effective wildfire monitoring systems.
